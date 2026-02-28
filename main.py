@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 num = int(input("Enter number: "))
 
 if num % 2 == 0:
@@ -5,3 +6,11 @@ if num % 2 == 0:
 
 else:
 	print("Odd")	
+=======
+num = int(input("Enter number: "))
+
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+>>>>>>> feature
